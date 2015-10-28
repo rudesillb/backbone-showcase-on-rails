@@ -1,5 +1,5 @@
 var app = app || {};
 
 $(function() {
-  // fill in
+  new app.ShowcaseView();
 });

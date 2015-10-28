@@ -1,10 +1,18 @@
 1. What is the ~/.railsrc file for?
 
+  Setting the rails application with what it should initialize with.
+
 2. What is a closure in JavaScript? How do you create a closure in Ruby?
+
+  A closure is the local variable for a function that is kept alive after the funciton has returned.
 
 3. What is a serializer in Rails API and why do we need it?
 
-4. Does Backbone have two-way data binding? Explain. 
+    Serializer turns file to JSON so that it can be interpreted.
+
+4. Does Backbone have two-way data binding? Explain.
+
+  Backbone has one-way binding.
 
 5. In views/show.js, what is the el property for an instance of ShowView?
 
